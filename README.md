@@ -7,21 +7,20 @@ same variable for comparison.
 
 
 ### AB Testing Process ###
-
-# 1. Construct Hypotheses
-# 2. Assumption Checking
-#   - Normality Assumption (Shapiro-Wilk)
-#   - Homogeneity of Variance (Levene)
-# 3. Hypothesis Testing
-# 4. Interpret Results Based on the p-value.
+1. Construct Hypotheses
+2. Assumption Checking
+  - Normality Assumption (Shapiro-Wilk)
+  - Homogeneity of Variance (Levene)
+3. Hypothesis Testing
+4. Interpret Results Based on the p-value.
 
 
 ### Business Problem ###
 ########################
 
-# Facebook offers various bidding strategies, and X company is interested in comparing two different bidding methods.
-# The company has two datasets that include variables such as "impression" "click" "purchase" and "earning".
-# Target variable is "purchase" and it is company's success criterion.
+Facebook offers various bidding strategies, and X company is interested in comparing two different bidding methods.
+The company has two datasets that include variables such as "impression" "click" "purchase" and "earning".
+Target variable is "purchase" and it is company's success criterion.
 
 
 
