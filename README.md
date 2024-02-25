@@ -37,4 +37,4 @@ Due to p value (0.349) is greater than 0.05 H0 hypothesis can not be denied, in 
 means of the two groups occured due to chance, there is no statistically significant difference.
 When the means of the control and test applications were compared,
 it was determined that the difference in means was due to chance, and therefore,
-there was no need for the new test application. #
+there was no need for the new test application.
