@@ -9,8 +9,8 @@ same variable for comparison.
 ### AB Testing Process ###
 1. Construct Hypotheses
 2. Assumption Checking
-  - Normality Assumption (Shapiro-Wilk)
-  - Homogeneity of Variance (Levene)
+   - Normality Assumption (Shapiro-Wilk)
+   - Homogeneity of Variance (Levene)
 3. Hypothesis Testing
 4. Interpret Results Based on the p-value.
 
